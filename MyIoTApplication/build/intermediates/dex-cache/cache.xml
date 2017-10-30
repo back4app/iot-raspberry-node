@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\okio-1.9.0_0c608444e689664885403420de9082c8e631cdf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.0\76d5ab52302434606c732539314290db91ebf25\okhttp-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="076d5ab52302434606c732539314290db91ebf25">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\okhttp-3.4.0_cdbeb174ec3033bf20b07da9ae661b550d79ed97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5a985c254c883da637d10f259bca56e3de3ce608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8781810fc46e069877b76b55bdd008ef5ef373e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\1a889118ee10e54ddecbc978be34e73598f59d3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_2761d3250edbabe1219e87525ae67b89c2cfd01c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\24f6c01029839cde149d56ebae2588e64934709c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4d9d7d034765882fd9002d93f897e58ff24a600f">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_1bb5831180106fefa60296565adbfe73b1c3aa4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\37ebc02f61eea9fe22349810ef8759d783098491\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_27819ca45979a23ab6c9a0847e2f6b8f3e9825d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\21d3c5266319f9f90cf1229e0b245bab1a034611\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_ed5289c91223ee5f681de68a282949a99e59f097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\fb6858c1cd4ff980110f73a4fa9cd25489ee6cc6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_7e20996e1d568893f7aa813337690fd3f8ca8704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\libs\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_89da6522c2ceaa0834411c7ab45359c49ec31c1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.0\ab1ef796b77b4dd4ba39f00c0f99b4528869a67e\okhttp-ws-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ab1ef796b77b4dd4ba39f00c0f99b4528869a67e">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.0_376594b7ea3b81f53e538bd7e4866a6d6b5a9082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\a7c8fe9d05294ff1cd0388ebca3bdf64e379128d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_eb3b7b9095751733405d7f24ad82cc87bfa00062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.1\5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a\parse-android-1.13.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\parse-android-1.13.1_3c21e51554c0e5bbdb4a0ab6081756bff17fe3f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\be5cdce322c3574bbaea7f0a9b0e1ea860cbad8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_40d69b07f58753afd9a1eb4f527c011265746e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\8b097caf464635a36c3d0224f3a253e2458a7565\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_f18e9e8718f8d0b38c8815be1d435b50de4efd44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\fb4bf23a91c4bb92b1624cd2c95f1569df722ad1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_d9ef815bb6135ccb6c0a975c1ac45506b87effab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\1b74f25d1698266e2cbe051da47a8fe1d9834d0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_927efa93232da352984a6b2400f0ed84682f4270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\c9e4203ed4b4fba252460fcb9ab986f52b87789b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_bab50a87d522df62a856f62f9539c8cefe00dc7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\e9a250fb292119f18b2d67134ffad43a4555ae77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_ee8eee9f1db2b3d8fa9b00b5b59d7bdc4f16eb70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\0e6acea95b9cffcedac777575724d557b4cd7354\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_be693891d5c5567e5b5fc05ed08def0bdfb0992d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\d4a6cf859c6798372273515b5d10cfbddd8f0dff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2bb6ea40f7b20db4660a432fdfa110275747147">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_3dcde731148893e0e2ec73aab30229c6fa55dd6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_6ed74db2c9c9b0eea3fbcc9b0e891947e05bb1b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\0df621c6cf713b15ae3cf08f446491ace59cd6bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_af89fde63024d6d3e4c63a1c99864b4ee5375c9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\a3bb68269abcee8557afac3c601a7d05a95ae040\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Guilherme\AndroidStudioProjects\MyIoTApplication\app\build\intermediates\pre-dexed\debug\classes_fbe0b6b9ae272f740fc1c0dc72bef3190077faec.jar" />
+    </item>
+
+</items>
